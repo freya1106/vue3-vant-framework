@@ -37,6 +37,7 @@ npm run format
 ```js
 npm run deploy
 ```
+[点我访问](https://freya1106.github.io/vue3-vant-framework/)
 
 ### 项目结构
 ```js
@@ -50,6 +51,7 @@ npm run deploy
 ├─package.json
 ├─README.md
 ├─vite.config.js
+├─deploy.sh // 部署github page脚本
 ├─src
 |  ├─App.vue
 |  ├─main.js
